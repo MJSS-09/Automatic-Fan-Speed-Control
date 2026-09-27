@@ -92,8 +92,8 @@ This project demonstrates a practical application of embedded systems in real-ti
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Mallampally Jayantha Siva Srinivas**
-B.Tech, Electronics and Communication Engineering
-July 2026
+**Mallampally Jayantha Siva Srinivas** | **B.Tech | Electronics and Communication Engineering (ECE)**
+ESSCI-Certified Embedded Fullstack & IoT Analyst , SRM University(AP)
+---
